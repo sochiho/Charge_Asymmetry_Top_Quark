@@ -1,4 +1,4 @@
-# Charge Asymmetry Top_Quark
+# Charge Asymmetry Top Quark
 
 Durham University Level 4 Theoretical Physics project 
 
@@ -15,4 +15,6 @@ asymmetries are introduced to study the asymmetry in suitable kinematic regions.
 Through these cuts the top quark is found to be predominantly produced at higher
 rapidities while the antitop is more centrally produced.
 
+References to research papers and Lepage's VEGAS integrator, as well as the relevant parton distribution function are provided in the 'Top_Quark_Charge_Asymmetry.pdf'physics report.
 
+In this project, a Monte Carlo (MC) evernt generator was produced for the simpler leptonic process, e<sup>+</sup> e<sup>-</sup> &rarr; Z/&gamma; &rarr; &mu;<sup>+</sup> &mu;<sup>-</sup>. This process allowed us to build a good foundation to be expanded for top quark production. 
